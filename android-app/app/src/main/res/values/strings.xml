@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhereIsMyDrone</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_localisation">Map</string>
+    <string name="map">Start Listener Temperature</string>
+    <string name="distance">Distance: </string>
+    <string name="lat">latitude: </string>
+    <string name="lng">longitude: </string>
+    <string name="temperature">Température</string>
+</resources>
